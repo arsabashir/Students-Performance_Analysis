@@ -94,7 +94,7 @@ Visualizes the relationship between math and reading scores across all students,
 
 **Arsa**  
 AI Program Student | Aspiring Full-Stack Developer  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/arsabashir) • [LinkedIn](https://linkedin.com/in/arsabashir)
 
 ---
 
